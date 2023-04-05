@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Mulle ObjC",
-  description: "Descriptions on Mulle ObjC",
+  description: "Branded Objective-C runtime",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
