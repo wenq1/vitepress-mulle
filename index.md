@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Mulle ObjC"
-  text: "Descriptions on Mulle ObjC"
+  text: "A Branded Objective-C runtime"
   tagline: My great project tagline
   actions:
     - theme: brand
